@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://test.fanyinchuan.com/uphone.ipa</string>
+					<string>https://ddx-test.oss-cn-hangzhou.aliyuncs.com/uphone.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
